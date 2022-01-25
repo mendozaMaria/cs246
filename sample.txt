@@ -1,2 +1,3 @@
 This is just a test, and 
-this is a change 
+this is a change and
+this should show a merge conflict wow
